@@ -1,0 +1,2 @@
+webpackJsonp([3],{511:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.reducer=t.stateKey=t.initialState=t.CounterPage=void 0;var a=n(0),u=function(e){return e&&e.__esModule?e:{default:e}}(a),r=n(207),l=function(){return u.default.createElement("div",null,u.default.createElement("div",null,u.default.createElement("div",null,"Counter"),u.default.createElement(r.view,{caption:"any"})))};t.CounterPage=l,t.initialState=100,t.stateKey=r.stateKey,t.reducer=r.reducer}});
+//# sourceMappingURL=counter.b74feabb.chunk.js.map
