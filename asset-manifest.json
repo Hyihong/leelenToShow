@@ -9,8 +9,13 @@
   "home.js.map": "static/js/home.f50b089a.chunk.js.map",
   "main.css": "static/css/main.d41d8cd9.css",
   "main.css.map": "static/css/main.d41d8cd9.css.map",
+<<<<<<< HEAD
   "main.js": "static/js/main.9169434c.js",
   "main.js.map": "static/js/main.9169434c.js.map",
+=======
+  "main.js": "static/js/main.b62fb904.js",
+  "main.js.map": "static/js/main.b62fb904.js.map",
+>>>>>>> 86a7906f471414ee334355db1ebb9e808a45cd7d
   "static\\media\\t1.jpg": "static/media/t1.50c3277b.jpg",
   "weather.js": "static/js/weather.73bfa31f.chunk.js",
   "weather.js.map": "static/js/weather.73bfa31f.chunk.js.map"
